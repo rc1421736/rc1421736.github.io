@@ -4,7 +4,7 @@
 
 ## Day 1
 
-— Date: __________
+— Date:
 
 ### 1. What was your goal or plan for today?
 - What were you trying to accomplish?
