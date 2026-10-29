@@ -4,7 +4,7 @@
 
 - Project 1: [VEX VR](vex-vr.md)
 
-- Project 2: Description
+- Project 2: (engineering-notebook.md)
 
 ## About Me
 
